@@ -8,7 +8,7 @@ The Tip Calculator app contains various UI elements for calculating a tip, teach
 
 ## Some Images
 
-<img src="images/Screenshot_1.png" alt="Screenshot_1627822938" style="zoom:25%;" /> <img src="images/Screenshot_2.png" alt="Screenshot_1627823010" style="zoom:25%;" />
+<img src="images/Screenshot_1.png" width="25%" height="25%"/> <img src="images/Screenshot_2.png" width="25%" height="25%"/>
 
 ## Getting Started
 
